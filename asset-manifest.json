@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-react-tailwind/static/css/main.9a5e6585.css",
+    "main.js": "/todo-list-react-tailwind/static/js/main.f702202f.js",
+    "index.html": "/todo-list-react-tailwind/index.html",
+    "main.9a5e6585.css.map": "/todo-list-react-tailwind/static/css/main.9a5e6585.css.map",
+    "main.f702202f.js.map": "/todo-list-react-tailwind/static/js/main.f702202f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5e6585.css",
+    "static/js/main.f702202f.js"
+  ]
+}
